@@ -2,9 +2,6 @@
 
 A Discord fast invite module. 😋
 
-![downloads](https://img.shields.io/npm/dt/toanky-invites)
-![version](https://img.shields.io/npm/v/toanky-invites?color=%2351F9C0&label=version)
-
 <img src="https://nodei.co/npm/toanky-invites.png?downloads=true&downloadRank=true&stars=true">
 
 # Note
